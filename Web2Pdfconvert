@@ -1,0 +1,1 @@
+javascript:void(window.open('https://www.web2pdfconvert.com/engine?cURL='+escape(location.href)+'&title='+escape(document.title)+'&utm_source=chrome&utm_medium=bookmarklet&utm_campaign=add-ons'))
